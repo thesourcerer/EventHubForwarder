@@ -1,0 +1,78 @@
+[
+  {
+    "_id": "652af0ae75002411a7a1db05",
+    "index": 0,
+    "guid": "86e431fe-dd1f-44ea-908d-ec74a05d2438",
+    "isActive": true,
+    "balance": "$2,283.78",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "eyeColor": "green",
+    "name": "Annmarie Mitchell",
+    "gender": "female",
+    "company": "GINKOGENE",
+    "email": "annmariemitchell@ginkogene.com",
+    "phone": "+1 (821) 472-3227",
+    "address": "269 Chase Court, Waiohinu, Palau, 9278",
+    "about": "Ullamco in in reprehenderit aliquip proident eiusmod. Occaecat sit est sit sit magna voluptate ut do sint nulla in. Proident ullamco labore minim magna ullamco. Ipsum eu ullamco nisi qui duis. Velit pariatur ex ex ipsum elit fugiat esse laborum.\r\n",
+    "registered": "2019-10-09T03:26:14 -03:00",
+    "latitude": -35.041597,
+    "longitude": 15.132736,
+    "tags": [
+      "Lorem",
+      "minim",
+      "qui",
+      "fugiat",
+      "nulla",
+      "magna"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Duke Nunez"
+      },
+      {
+        "id": 1,
+        "name": "Leigh Fowler"
+      },
+      {
+        "id": 2,
+        "name": "Roseann Donaldson"
+      }
+    ],
+    "greeting": "Hello, Annmarie Mitchell! You have 6 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "652af0aedac1f0a19baa254d",
+    "index": 1,
+    "guid": "0669b930-4f23-4135-8901-fc3ca6f543c1",
+    "isActive": true,
+    "balance": "$2,172.97",
+    "address": "348 Lyme Avenue, Lodoga, Arkansas, 5737",
+    "registered": "2014-06-24T12:52:20 -03:00",
+    "latitude": 15.825976,
+    "longitude": 80.565454,
+    "tags": [
+      "aliqua",
+      "commodo",
+      "adipisicing"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Marina Blankenship"
+      },
+      {
+        "id": 1,
+        "name": "Reeves Maxwell"
+      },
+      {
+        "id": 2,
+        "name": "Sloan Dixon"
+      }
+    ],
+    "greeting": "Hello, Fischer Burke! You have 9 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]

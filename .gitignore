@@ -1,0 +1,8 @@
+*.orig
+*.csproj.user
+launchSettings.json
+.vs/
+*local.settings.json
+src/bin/
+src/obj/
+src/Test/__pycache__
